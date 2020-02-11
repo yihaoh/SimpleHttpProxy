@@ -1,0 +1,10 @@
+Usage:
+Please type the following command to start the program:
+       sudo docker-compose up
+
+Then send http request to port 12345.
+You may have a try with the links listed in testcase.txt.
+
+After you end the process, cd into ./code directory
+and you will find proxy.log. Please use sudo cat proxy.log
+to view the content.
